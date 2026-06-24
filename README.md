@@ -5,7 +5,7 @@ This repository contains the software that was implemented as well as my analysi
 **Course Reflection**
 
 
-1. ***What was the problem you were solving in the projects for this course?***
+***What was the problem you were solving in the projects for this course?***
      The main problem I was solving was how to organize and manage course info for the academic advisors at the university. The developed program needs to read course data from a csv file, store it in the most efficient data structure, and allow the advisors to quickly find info about individual courses as well as their prerequisites. It also needs to print the entire course catalog in a alphanumeric order so the advisors could easily review the course curriculum with their respective students.
    
 ***How did you approach the problem? Consider why data structures are important to understand.***
