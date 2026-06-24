@@ -14,8 +14,7 @@ This repository contains the software that was implemented as well as my analysi
      I approached the problem by comparing different data structures and looking at how each one handled the searching, sorting, and storing of the data. Throughout the course, I worked with vectors, binary search trees, and hash tables. I compared and contrasted the strengths and weaknesses of each one to aid my decision. Understanding data structures is important because the structure someone chooses will directly affect how efficient a program will be. A solution might work as intended, but if the wrong structure is used, performance can suffer as the amount of data gets greater and greater. After finishing the analysis, I chose a binary search tree (BST) because it provided a good balance between search performance and maintaining course data in sorted order.
 <br>
   ***How did you overcome any roadblocks you encountered while going through the activities or project?***
-<br>
-     
+<br>  
      One of the biggest challenges I ran into was reading and parsing the course data file correctly. Since each row could contain a different number of prerequisites, I had to make sure the program could handle multiple formats while still validating the data. I also spent time troubleshooting the pointer logic while building the BST. I worked through these issues by breaking the program into smaller functions, testing one section at a time, and using some debugging tools to follow the programs flow and verify that nodes were being inserted correctly. I also created a .csv file and input it into the project file and used that to my benefit in making sure the program ran as I expected it to.
 
 ***How has your work on this project expanded your approach to designing software and developing programs?***
